@@ -1,10 +1,10 @@
-#🚀 RoCore Roblox Account Manager
+RoCore Roblox Account Manager
 
 A modern, lightweight, and efficient Roblox Account Manager built for speed, simplicity, and control.
 
 RoCore allows you to manage multiple Roblox accounts, launch sessions quickly, and streamline your workflow with a clean, user friendly interface.
 
-#✨ Features
+Features
 
 🔐 Account Management
 Store and manage multiple Roblox accounts
