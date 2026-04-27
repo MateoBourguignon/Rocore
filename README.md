@@ -76,7 +76,7 @@ Pull requests are welcome. If you have ideas or improvements, feel free to open 
 
 📄 License
 
-MIT License — feel free to use, modify, and distribute.
+MIT License feel free to use, modify, and distribute.
 
 ⭐ Support
 
