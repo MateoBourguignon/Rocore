@@ -63,10 +63,11 @@ Use at your own risk
 Do not share your account data
 
 🛠️ Future Improvements
-Account grouping
-Multi account
-Anti AFK
-Discord Webhook
+
++ Account grouping
++ Multi account
++ Anti AFK
++ Discord Webhook
 + Suggestions 
 
 🤝 Contributing
