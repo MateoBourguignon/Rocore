@@ -34,7 +34,8 @@ pip install -r requirements.txt
 python main.py
 
 📁 Project Structure
-ROCORE V1/
+ROCORE V1
+```
 │
 ├── AccountManagerData/        # Stored user data (accounts, config)
 │   └── encryption_config.json
@@ -55,7 +56,7 @@ ROCORE V1/
 │
 ├── main.py                    # Entry point
 ├── requirements.txt           # Dependencies
-
+```
 ⚠️ Disclaimer
 This project is not affiliated with Roblox Corporation
 Use at your own risk
