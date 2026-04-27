@@ -4,19 +4,26 @@ A modern, lightweight, and efficient Roblox Account Manager built for speed, sim
 
 RoCore allows you to manage multiple Roblox accounts, launch sessions quickly, and streamline your workflow with a clean, user friendly interface.
 
-✨ Features
+#✨ Features
+
 🔐 Account Management
 Store and manage multiple Roblox accounts
+
 ⚡ Quick Launch
 Instantly launch Roblox sessions with selected account
+
 💻 Modern UI
 Clean, minimal, and responsive interface 
+
 💾 Local Data Storage
 All account data is stored locally on your machine
+
 🧹 Data Reset
 Easily wipe all saved data and start fresh
+
 🔄 Lightweight & Fast
 Minimal resource usage with smooth performance
+
 📦 Installation
 1. Clone the repository
 git clone https://github.com/MateoBourguignon/Rocore.git
