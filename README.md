@@ -1,83 +1,105 @@
-RoCore Roblox Account Manager
+# RoCore Roblox Account Manager
 
-A modern, lightweight, and efficient Roblox Account Manager built for speed, simplicity, and control.
+A simple Roblox account manager made to make switching between accounts quicker and easier.
 
-RoCore allows you to manage multiple Roblox accounts, launch sessions quickly, and streamline your workflow with a clean, user friendly interface.
+RoCore lets you save multiple Roblox accounts, launch them in seconds, and keep everything organized in one place without unnecessary clutter.
 
-Features
+## Features
 
-🔐 Account Management
-Store and manage multiple Roblox accounts
+### Account Management
 
-⚡ Quick Launch
-Instantly launch Roblox sessions with selected account
+Save and manage multiple Roblox accounts from one application.
 
-💻 Modern UI
-Clean, minimal, and responsive interface 
+### Quick Launch
 
-💾 Local Data Storage
-All account data is stored locally on your machine
+Launch Roblox directly from the account you want to use.
 
-🧹 Data Reset
-Easily wipe all saved data and start fresh
+### Clean Interface
 
-🔄 Lightweight & Fast
-Minimal resource usage with smooth performance
+Simple and easy-to-use UI designed to stay out of your way.
 
-📦 Installation
-1. Clone the repository
+### Local Storage
+
+Your data stays on your computer and isn't uploaded anywhere.
+
+### Reset Data
+
+Clear all saved accounts and settings whenever you want.
+
+### Lightweight
+
+Built to be fast and use very little system resources.
+
+## Installation
+
+### Clone the repository
+
+```bash
 git clone https://github.com/MateoBourguignon/Rocore.git
 cd rocore
-2. Install dependencies
-pip install -r requirements.txt
-3. Run the app
-python main.py
-
-📁 Project Structure
-ROCORE V1
 ```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run RoCore
+
+```bash
+python main.py
+```
+
+## Project Structure
+
+```text
+ROCORE V1
 │
-├── AccountManagerData/        # Stored user data (accounts, config)
+├── AccountManagerData/
 │   └── encryption_config.json
 │
-├── classes/                   # Core logic
+├── classes/
 │   ├── __init__.py
-│   ├── account_manager.py     # Account handling
-│   ├── encryption.py          # Encryption system
-│   └── roblox_api.py          # Roblox API interaction
+│   ├── account_manager.py
+│   ├── encryption.py
+│   └── roblox_api.py
 │
-├── utils/                     # Utilities & UI helpers
+├── utils/
 │   ├── encryption_setup.py
 │   ├── theme_manager.py
 │   └── ui.py
 │
-├── discordlogo.png            # UI asset
-├── icon.ico                   # App icon
+├── discordlogo.png
+├── icon.ico
 │
-├── main.py                    # Entry point
-├── requirements.txt           # Dependencies
+├── main.py
+├── requirements.txt
 ```
-⚠️ Disclaimer
-This project is not affiliated with Roblox Corporation
-Use at your own risk
-Do not share your account data
 
-🛠️ Future Improvements
+## Disclaimer
 
-+ Account grouping
-+ Multi account
-+ Anti AFK
-+ Discord Webhook
-+ Suggestions 
+RoCore is an unofficial project and is not affiliated with Roblox Corporation.
 
-🤝 Contributing
+Use it at your own risk and do not share your account information with anyone.
 
-Pull requests are welcome. If you have ideas or improvements, feel free to open an issue.
+## Planned Features
 
-📄 License
+* Account groups
+* Multi-account launching
+* Anti-AFK
+* Discord webhook support
+* More customization options
+* Community suggestions
 
-MIT License feel free to use, modify, and distribute.
+## Contributing
 
-⭐ Support
+Contributions are welcome. Feel free to open an issue, suggest a feature, or submit a pull request.
 
-If you like this project, consider giving it a star on GitHub!
+## License
+
+Released under the MIT License. You are free to use, modify, and distribute it.
+
+## Support
+
+If you find RoCore useful, consider starring the repository on GitHub.
